@@ -1,4 +1,4 @@
-# [Homework 1](readme.md)
+# [Homework 1](readme)
 # [Homework 2]()
 
 
