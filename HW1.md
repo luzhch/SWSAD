@@ -6,7 +6,7 @@ Software engineering is “(1) the application of a systematic, disciplined, qua
 
 ## 解释导致software crisis 本质原因、表现，述说克服软件危机的方法：
 * 本质原因：计算机的发展，计算机能力的迅速提高和无法解决的问题的复杂性导致软件危机。随着软件复杂性的增加，优越现有方法的不在，出现了许多软件问题。  
-* 表现：1.项目运行超过预算
+* 表现：1. 项目运行超过预算
 2.项目运行的加班时间
 3.软件非常低效
 4.软件质量很差
