@@ -24,7 +24,7 @@
   - **每个人的任务是1-2项**
   - **至少包含一个团队活动任务**
   
-   ![kanban](kanban.png)
+   ![kanban](kanban.PNG)
    
    - **UML绘图工具练习（提交贴图，必须使用 UMLet）**
 
